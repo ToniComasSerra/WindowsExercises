@@ -1,0 +1,9 @@
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows3\bin\Debug\ExercisesWindows3.exe.config
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows3\bin\Debug\ExercisesWindows3.exe
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows3\bin\Debug\ExercisesWindows3.pdb
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows3\obj\Debug\ExercisesWindows3.Form1.resources
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows3\obj\Debug\ExercisesWindows3.Properties.Resources.resources
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows3\obj\Debug\ExercisesWindows3.csproj.GenerateResource.cache
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows3\obj\Debug\ExercisesWindows3.csproj.CoreCompileInputs.cache
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows3\obj\Debug\ExercisesWindows3.exe
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows3\obj\Debug\ExercisesWindows3.pdb

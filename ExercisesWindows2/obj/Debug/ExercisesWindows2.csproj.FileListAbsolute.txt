@@ -1,0 +1,9 @@
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows2\bin\Debug\ExercisesWindows2.exe.config
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows2\bin\Debug\ExercisesWindows2.exe
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows2\bin\Debug\ExercisesWindows2.pdb
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows2\obj\Debug\ExercisesWindows2.Form1.resources
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows2\obj\Debug\ExercisesWindows2.Properties.Resources.resources
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows2\obj\Debug\ExercisesWindows2.csproj.GenerateResource.cache
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows2\obj\Debug\ExercisesWindows2.csproj.CoreCompileInputs.cache
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows2\obj\Debug\ExercisesWindows2.exe
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows2\obj\Debug\ExercisesWindows2.pdb

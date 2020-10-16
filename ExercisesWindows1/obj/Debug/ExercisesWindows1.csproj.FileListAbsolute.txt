@@ -1,0 +1,10 @@
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows1\bin\Debug\ExercisesWindows1.exe.config
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows1\bin\Debug\ExercisesWindows1.exe
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows1\bin\Debug\ExercisesWindows1.pdb
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows1\obj\Debug\ExercisesWindows1.csprojAssemblyReference.cache
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows1\obj\Debug\ExercisesWindows1.Form1.resources
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows1\obj\Debug\ExercisesWindows1.Properties.Resources.resources
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows1\obj\Debug\ExercisesWindows1.csproj.GenerateResource.cache
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows1\obj\Debug\ExercisesWindows1.csproj.CoreCompileInputs.cache
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows1\obj\Debug\ExercisesWindows1.exe
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows1\obj\Debug\ExercisesWindows1.pdb

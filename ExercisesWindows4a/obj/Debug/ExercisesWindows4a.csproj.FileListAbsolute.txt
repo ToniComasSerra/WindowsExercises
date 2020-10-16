@@ -1,0 +1,10 @@
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows4a\bin\Debug\ExercisesWindows4a.exe.config
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows4a\bin\Debug\ExercisesWindows4a.exe
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows4a\bin\Debug\ExercisesWindows4a.pdb
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows4a\obj\Debug\ExercisesWindows4a.csprojAssemblyReference.cache
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows4a\obj\Debug\ExercisesWindows4a.Form1.resources
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows4a\obj\Debug\ExercisesWindows4a.Properties.Resources.resources
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows4a\obj\Debug\ExercisesWindows4a.csproj.GenerateResource.cache
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows4a\obj\Debug\ExercisesWindows4a.csproj.CoreCompileInputs.cache
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows4a\obj\Debug\ExercisesWindows4a.exe
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows4a\obj\Debug\ExercisesWindows4a.pdb
