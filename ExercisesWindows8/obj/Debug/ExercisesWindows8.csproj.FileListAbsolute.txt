@@ -1,0 +1,10 @@
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows8\bin\Debug\ExercisesWindows8.exe.config
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows8\bin\Debug\ExercisesWindows8.exe
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows8\bin\Debug\ExercisesWindows8.pdb
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows8\obj\Debug\ExercisesWindows8.csprojAssemblyReference.cache
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows8\obj\Debug\ExercisesWindows8.Form1.resources
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows8\obj\Debug\ExercisesWindows8.Properties.Resources.resources
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows8\obj\Debug\ExercisesWindows8.csproj.GenerateResource.cache
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows8\obj\Debug\ExercisesWindows8.csproj.CoreCompileInputs.cache
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows8\obj\Debug\ExercisesWindows8.exe
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows8\obj\Debug\ExercisesWindows8.pdb
