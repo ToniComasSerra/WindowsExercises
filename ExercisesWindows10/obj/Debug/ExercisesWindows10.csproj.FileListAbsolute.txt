@@ -1,0 +1,9 @@
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows10\bin\Debug\ExercisesWindows10.exe.config
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows10\bin\Debug\ExercisesWindows10.exe
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows10\bin\Debug\ExercisesWindows10.pdb
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows10\obj\Debug\ExercisesWindows10.Form1.resources
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows10\obj\Debug\ExercisesWindows10.Properties.Resources.resources
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows10\obj\Debug\ExercisesWindows10.csproj.GenerateResource.cache
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows10\obj\Debug\ExercisesWindows10.csproj.CoreCompileInputs.cache
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows10\obj\Debug\ExercisesWindows10.exe
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows10\obj\Debug\ExercisesWindows10.pdb
