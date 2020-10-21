@@ -1,0 +1,10 @@
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows7\bin\Debug\ExercisesWindows7.exe.config
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows7\bin\Debug\ExercisesWindows7.exe
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows7\bin\Debug\ExercisesWindows7.pdb
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows7\obj\Debug\ExercisesWindows7.csprojAssemblyReference.cache
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows7\obj\Debug\ExercisesWindows7.Form1.resources
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows7\obj\Debug\ExercisesWindows7.Properties.Resources.resources
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows7\obj\Debug\ExercisesWindows7.csproj.GenerateResource.cache
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows7\obj\Debug\ExercisesWindows7.csproj.CoreCompileInputs.cache
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows7\obj\Debug\ExercisesWindows7.exe
+C:\Users\Alumne\source\repos\ExercisesWindowsSolution\ExercisesWindows7\obj\Debug\ExercisesWindows7.pdb
